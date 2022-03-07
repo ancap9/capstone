@@ -1,7 +1,7 @@
 # capstone
 
 
-These files are part of a project about developing a movie recommendation system using the MovieLens dataset. It conteins:
+These files are part of a project about developing a movie recommendation system using the MovieLens dataset. It contains:
 
 - Project report in .rmd format
 
